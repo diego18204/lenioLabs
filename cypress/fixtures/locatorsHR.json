@@ -1,0 +1,7 @@
+{
+    "usernameField": "[name='username']",
+    "passwordField": "[name='password']",
+    "loginButton": "[type='submit']",
+    "userLoggedDropdown": ".oxd-userdropdown-tab",
+    "dashboardPageTitle": ".oxd-topbar-header-title"
+}
